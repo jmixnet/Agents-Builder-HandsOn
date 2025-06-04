@@ -55,6 +55,7 @@
 ![image28](image/02/image28.png)
 <br>
 11.	M365 Copilot Chat の画面に遷移し、オンボーディングサポートが表示されていることを確認してください。<br>
+
 ![image29](image/02/image29.png)
  
 > [!NOTE]<br>
