@@ -8,7 +8,7 @@
 > 今回の演習で使うサンプルドキュメントは[こちら](./CopilotHandsonDocs/)からダウンロードできます。<br>
 > 準備中や演習中にドキュメントの内容を確認しておいてください。
 
-1. [ホーム | Microosft 365 Copilot](https://m365.cloud.microsoft/) に移動します。
+1. [https://m365.cloud.microsoft/](https://m365.cloud.microsoft/) に移動します。
 2. ページの左上で [アプリ起動ツール] アイコンを選択し、[SharePoint] を選択して、SharePoint のスタートページに移動します。<br>
 ![app-launcher](image/01/app-launcher.png)
 3. [IT Help01]というSharePointサイトを選択します。
