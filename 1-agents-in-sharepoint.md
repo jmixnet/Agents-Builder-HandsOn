@@ -1,5 +1,7 @@
 # Agents in SharePoint でエージェントを作成する
-この演習では、特定のSharePointサイト内のドキュメントライブラリのドキュメントを使用して、Copilotプロンプトの例などの質問に答えることができる簡単なエージェントを作成します。
+この演習では、特定のSharePointサイト内のドキュメントライブラリのドキュメントを使用して、Copilotプロンプトの例などの質問に答えることができる簡単なエージェントを作成します。<br>
+<br>
+<br>
 
 ## 準備: SharePoint のサイトにアクセスする
 まず、エージェントを作成するサイトにアクセスしましょう。
@@ -9,8 +11,8 @@
 > 準備中や演習中にドキュメントの内容を確認しておいてください。
 
 1. [https://m365.cloud.microsoft/](https://m365.cloud.microsoft/) に移動します。
-2. ページの左上で [アプリ起動ツール] アイコンを選択し、[SharePoint] を選択して、SharePoint のスタートページに移動します。<br>
-![app-launcher](image/01/app-launcher.png)
+2. ページの左ペインで [アプリ] アイコンを選択し、[SharePoint] を選択して、SharePoint のスタートページに移動します。<br>
+![image1](image/01/image1.png)<br>
 3. [IT Help01]というSharePointサイトを選択します。
 > [!IMPORTANT]<br>
 > 見つからない場合は、[https://csfcopilot.sharepoint.com/sites/ITHelp01](https://csfcopilot.sharepoint.com/sites/ITHelp01)に直接アクセスしてください。<br>
