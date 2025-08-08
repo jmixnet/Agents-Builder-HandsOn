@@ -42,4 +42,4 @@
 
 
 # 次のステップ
-[Agents in SharePoint でエージェントを作成する](1-agents-in-sharepoint.md)
+[SharePoint エージェントでエージェントを作成する](1-agents-in-sharepoint.md)

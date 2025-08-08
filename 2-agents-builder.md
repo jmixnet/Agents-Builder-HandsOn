@@ -1,8 +1,8 @@
-# Agents Builder でエージェントを作成する
-この演習では、Microsoft 365 Copilot Chat内から Agents Builder を使い、簡単なエージェントを作成します。
+# Copilot Studio エージェントビルダーでエージェントを作成する
+この演習では、Microsoft 365 Copilot Chat内から Copilot Studio エージェントビルダー を使い、簡単なエージェントを作成します。
 
 > [!NOTE]<br>
-> ここでは、Agent in SharePointの最初にダウンロードした内の「Project X チーム資料.DOCX」を使用します。<br>
+> ここでは、SharePoint エージェントの最初にダウンロードした内の「Project X チーム資料.DOCX」を使用します。<br>
 
 ## エージェントを作成する
 1.	[Copilot | Microsoft 365](https://m365.cloud.microsoft/chat/) を開き、右ペインから[エージェントの作成]を押下します。<br>
@@ -101,4 +101,4 @@
 
 お疲れさまでした！<br>
 次のステップでは、デモ環境の削除方法を説明します。<br>
-[環境をクリーンアップする](3-cleanup.md) 
+[環境をクリーンアップする](3-cleanup.md)

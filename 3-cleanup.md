@@ -3,12 +3,12 @@
 <br>
 
 ## エージェントの削除
-### Agents in SharePoint
+### SharePoint エージェント
 1. [IT Help01]のSharePointサイト>ドキュメントに移動します。
 2. 自分が作成したエージェントを選択し、[削除]をクリックします。<br>
 ![image1](image/03/image1.png)<br>
 
-### Agents Builder
+### Copilot Studio エージェントビルダー
 1. [Copilot | Microsoft 365](https://m365.cloud.microsoft/chat/) を開きます。
 2. 自分が作成したエージェントを選択し、[アンインストール]をクリックします。<br>
 ![image2](image/03/image2.png)<br>
